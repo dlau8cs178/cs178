@@ -6,7 +6,6 @@ import java.io.EOFException;
 import java.io.DataInputStream;
 import java.io.BufferedInputStream;
 
-
 public class Count3sServlet {
 	
 	public static void main(String[] args) {
